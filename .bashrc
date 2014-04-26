@@ -26,3 +26,6 @@ export PYTHON_HOME=/usr/local/bin
 if [ -f /etc/bashrc ]; then
 	. /etc/bashrc
 fi
+
+export TERM='xterm-256color'
+
