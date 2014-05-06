@@ -1,7 +1,7 @@
 #!/bin/bash
 
 cp .bashrc ~/ 
-cp DIR_COLORS /etc/
+cp .dir_colors ~/
 cp .tmux.conf ~/
 cp .vimrc ~/
 cp -r .vim ~/
